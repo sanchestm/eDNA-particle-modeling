@@ -1,0 +1,71 @@
+File Name,Thiago_2019-11-20 cage study transect vs direct sampling V2.pcrd,,,,,,
+Created By User,Thiago,,,,,,
+Notes,,,,,,,
+ID,,,,,,,
+Run Started,11/21/2019 01:29:01 UTC,,,,,,
+Run Ended,11/21/2019 03:55:52 UTC,,,,,,
+Sample Vol,20,,,,,,
+Lid Temp,105,,,,,,
+Protocol File Name,CS_amp_protocol_highTM_x60.prcl,,,,,,
+Plate Setup File Name,CAGE STUDY TRANSECT VS DIRECT V2.pltd,,,,,,
+Base Serial Number,CT024112,,,,,,
+Optical Head Serial Number,785BR15152,,,,,,
+CFX Manager Version,3.1.1517.0823. ,,,,,,
+,,,,,,,
+Well group,All Wells,,,,,,
+Amplification step,3,,,,,,
+Melt step,,,,,,,
+,,,,,,,
+,,,,,,,
+Fluor,Target,Content,Replicate,Sample,Cq,Starting Quantity (SQ),Call
+FAM,Chinook S COI,Unkn,,DS10,49.2588164807903,2.18529833847378E-13,
+FAM,Chinook S COI,Unkn,,DS5,NaN,NaN,
+FAM,Chinook S COI,Unkn,,0M - 5Fish,NaN,NaN,
+FAM,Chinook S COI,Unkn,,100M - 5Fish,46.3535364037823,3.85609568083241E-12,(+) Positive
+FAM,Chinook S COI,Unkn,,10M - 10Fish,NaN,NaN,
+FAM,Chinook S COI,Neg Ctrl,,C1,NaN,NaN,
+FAM,Chinook S COI,Std,,1e-2 Set1,24.0172351824186,0.01,(+) Positive
+FAM,Chinook S COI,Std,,1e-2 Set2,23.3832750084787,0.01,(+) Positive
+FAM,Chinook S COI,Std,,1e-2 Set3,25.2808474838012,0.01,(+) Positive
+FAM,Chinook S COI,Unkn,,DS10,44.854792184258,1.6953108561508E-11,(+) Positive
+FAM,Chinook S COI,Unkn,,DS5,NaN,NaN,
+FAM,Chinook S COI,Unkn,,0M - 5Fish,NaN,NaN,
+FAM,Chinook S COI,Unkn,,100M - 5Fish,NaN,NaN,
+FAM,Chinook S COI,Unkn,,10M - 10Fish,NaN,NaN,
+FAM,Chinook S COI,Neg Ctrl,,C1,44.5394130556428,2.31513599042078E-11,
+FAM,Chinook S COI,Std,,1e-3 Set1,24.8766012966781,0.001,(+) Positive
+FAM,Chinook S COI,Std,,1e-3 Set2,26.3753557001467,0.001,(+) Positive
+FAM,Chinook S COI,Std,,1e-3 Set3,29.1069025863025,0.001,(+) Positive
+FAM,Chinook S COI,Unkn,,MI10,52.1889691758924,1.20837293260224E-14,(+) Positive
+FAM,Chinook S COI,Unkn,,MI5,NaN,NaN,
+FAM,Chinook S COI,Unkn,,5M - 5Fish,NaN,NaN,
+FAM,Chinook S COI,Unkn,,20M - 10Fish,NaN,NaN,
+FAM,Chinook S COI,Neg Ctrl,,C1,NaN,NaN,
+FAM,Chinook S COI,Std,,1e-4 Set1,29.9268353920606,0.0001,(+) Positive
+FAM,Chinook S COI,Std,,1e-4 Set2,30.7786451081114,0.0001,(+) Positive
+FAM,Chinook S COI,Std,,1e-4 Set3,27.9616572209837,0.0001,(+) Positive
+FAM,Chinook S COI,Unkn,,MI10,NaN,NaN,
+FAM,Chinook S COI,Unkn,,MI5,NaN,NaN,
+FAM,Chinook S COI,Unkn,,5M - 5Fish,NaN,NaN,
+FAM,Chinook S COI,Unkn,,0M - 10Fish,60.6871589350076,2.72698163864855E-18,
+FAM,Chinook S COI,Unkn,,20M - 10Fish,NaN,NaN,
+FAM,Chinook S COI,Std,,1e-5 Set1,32.2031082937245,1E-05,(+) Positive
+FAM,Chinook S COI,Std,,1e-5 Set2,31.9252968007444,1E-05,(+) Positive
+FAM,Chinook S COI,Std,,1e-5 Set3,29.0884655292039,1E-05,(+) Positive
+FAM,Chinook S COI,Unkn,,US10,NaN,NaN,
+FAM,Chinook S COI,Unkn,,US5,NaN,NaN,
+FAM,Chinook S COI,Unkn,,10M - 5Fish,NaN,NaN,
+FAM,Chinook S COI,Unkn,,0M - 10Fish,NaN,NaN,
+FAM,Chinook S COI,Unkn,,100M - 10Fish,NaN,NaN,
+FAM,Chinook S COI,Unkn,,US10,40.3076635259075,1.51493191648289E-09,(+) Positive
+FAM,Chinook S COI,Unkn,,US5,NaN,NaN,
+FAM,Chinook S COI,Unkn,,10M - 5Fish,NaN,NaN,
+FAM,Chinook S COI,Unkn,,5M - 10Fish,46.6360085082288,2.91702956825711E-12,
+FAM,Chinook S COI,Unkn,,100M - 10Fish,NaN,NaN,
+FAM,Chinook S COI,Unkn,,OUT10,NaN,NaN,
+FAM,Chinook S COI,Unkn,,OUT5,NaN,NaN,
+FAM,Chinook S COI,Unkn,,20M - 5Fish,NaN,NaN,
+FAM,Chinook S COI,Unkn,,5M - 10Fish,NaN,NaN,
+FAM,Chinook S COI,Unkn,,OUT10,NaN,NaN,
+FAM,Chinook S COI,Unkn,,OUT5,NaN,NaN,
+FAM,Chinook S COI,Unkn,,20M - 5Fish,NaN,NaN,
