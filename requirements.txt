@@ -1,0 +1,11 @@
+numpy
+pymc3>=3.8
+arviz
+scipy
+ipywidgets
+scikitlearn
+ipykernel
+seaborn
+matplotlib
+pandas
+statsmodels
