@@ -1,0 +1,17 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - plotly
+  - pymc3>=3.8
+  - arviz
+  - scipy
+  - ipywidgets
+  - scikit-learn
+  - ipykernel
+  - seaborn
+  - matplotlib
+  - pandas
+  - statsmodels
