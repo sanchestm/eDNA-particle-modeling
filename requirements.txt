@@ -3,7 +3,7 @@ pymc3>=3.8
 arviz
 scipy
 ipywidgets
-scikitlearn
+scikit-learn
 ipykernel
 seaborn
 matplotlib
