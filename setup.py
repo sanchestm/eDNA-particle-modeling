@@ -11,8 +11,8 @@ setuptools.setup(
     description='Testing installation of Package',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/sanchestm/eDNA-particle-modeling',
+    url='https://github.com/sanchestm/eDNA-particle-modeling/',
     license='MIT',
     packages=['eDNA-particle-modeling'],
-    install_requires=['pymc3>=3.8', 'arviz', 'seaborn', 'scikit-learn', 'statsmodels'],
+    install_requires=['numpy','pymc3>=3.8','arviz','scipy','ipywidgets','scikit-learn','seaborn','matplotlib','pandas','statsmodels'],
 )
