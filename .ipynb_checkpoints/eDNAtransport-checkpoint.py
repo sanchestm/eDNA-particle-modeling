@@ -5,14 +5,16 @@ import seaborn as sns
 import statsmodels.api as sm
 import random
 from scipy import optimize
+import pandas as pd
 import numpy as np
 from scipy.ndimage.filters import gaussian_filter, median_filter
 
 class River:
     def __init__(self):
         self.error = 0
+        ##### logit model for probability of amplification
         probfunction = pd.DataFrame([[-2,.333],[-1, .875],[0,1],[1,1], [-10,0], [-3,0]], columns=['initial eDNA', 'probability of amplification'])
-        probfunction['copy number'] = probfunction['initial eDNA'].apply(lambda x: 10**x * 3.65*1e6)
+        probfunction['copy number'] = probfunction['initial eDNA'].apply(lambda x: 10**x * 3.65*1e5)
         model2 = sm.Logit(probfunction['probability of amplification'].values, probfunction['copy number'].values)
         self.result2 = model2.fit( disp=0)
         self.PofCaptureNet = 0.01
